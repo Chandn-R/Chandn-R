@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Chandan R
 
-Welcome to my GitHub! I'm a Software Engineering student with a big interest in **Backend Development**, **System Design**, and building things that scale (and don’t crash at 2AM). I love working with the MERN stack, optimizing APIs, and making sure the backend runs smooth like butter.
+Welcome to my GitHub! I'm a Software Engineering student with a big interest in Backend Development, System Design, and building things that scale (and don’t crash at 2AM 😅)
 
 ---
 
