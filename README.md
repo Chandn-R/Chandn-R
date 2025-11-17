@@ -26,7 +26,6 @@ I'm a Software Engineering student from India, passionate about backend developm
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&style=for-the-badge" alt="Next.js logo" title="Next.js" height="28" />
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&style=for-the-badge&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="28" />
 <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&style=for-the-badge&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="28" />
-<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&style=for-the-badge&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="28" />
 <img src="https://img.shields.io/badge/Redis-282C34?logo=redis&style=for-the-badge&logoColor=DC382D" alt="Redis logo" title="Redis" height="28" />
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&style=for-the-badge&logoColor=F05032" alt="Git logo" title="Git" height="28" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&style=for-the-badge&logoColor=2496ED" alt="Docker logo" title="Docker" height="28" />
