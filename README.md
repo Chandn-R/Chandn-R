@@ -14,7 +14,7 @@ I'm a Software Engineering student from India, passionate about backend developm
 ---
 
  
-## 🛠 Technologies
+##  Technologies
 
 <p align="left"> 
 <img src="https://img.shields.io/badge/C++-282C34?logo=c%2b%2b&style=for-the-badge" alt="C++ logo" title="C++" height="28" />
