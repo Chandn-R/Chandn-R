@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Chandan R
 
-I'm a Software Engineering student from India, passionate about backend development, system design, and building reliable systems that don't crash at 2 AM 😁
+I'm a Software Engineering student from India, passionate about backend development, system design, and building reliable systems
 ---
 
 ## 🧑‍💻 About Me
