@@ -5,11 +5,11 @@ I'm a Software Engineering student from India, passionate about backend developm
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech Computer Science student
-- 🧰 Backend is my happy place
-- 🌐 Learning how to design systems that are fast, scalable, and maybe even elegant
-- 🌱 Currently learning: Microservices, Redis and DevOps
-- 🎯 Goal: Make cool stuff, break fewer things, and vibe along the way
+-  B.Tech Computer Science student
+-  Backend is my happy place
+-  Learning how to design systems that are fast, scalable, and maybe even elegant
+-  Currently learning: Microservices, Redis and DevOps
+-  Goal: Make cool stuff, break fewer things, and vibe along the way
 
 ---
 
